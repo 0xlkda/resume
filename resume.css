@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Kanit;
+  src: url(assets/Kanit-Regular.ttf);
+}
+
+@font-face {
+  font-family: SSPro;
+  src: url(assets/SourceCodePro-VariableFont_wght.ttf);
+}
+
+.resume-body {
+  font-size: 17px;
+  font-family: SSPro;
+}
+
+h3 {
+  margin-top: 2rem;
+}
