@@ -2,11 +2,11 @@
 
 ### LE KHAC DUY ANH | VIETNAM | HCMC
 
-As Senior Software Engineer, Duy Anh offers end-to-end software solutions from
-front-end to back-end, including user interface design, server-side
-development, and database management. He specializes in creating engaging and
-intuitive user interfaces, developing responsive web applications, and
-optimizing software performance.
+Software Engineer with ten years of full-time commercial experience, eager to
+learn new technologies, methodologies, and techniques, Duy Anh offers
+end-to-end software solutions. He specializes in creating engaging and
+intuitive user interfaces and web development with great interest in planning
+architectures and enhancing the usability of products.
 
 [GMAIL](mailto:lekhacduyanh@gmail.com) | [GITHUB](https://github.com/0xlkda) | [LINKEDIN](https://www.linkedin.com/in/lkda/) 
 
@@ -14,9 +14,9 @@ optimizing software performance.
 
 #### 2020 - Now
 
-He is a Technical Director at ECM - A young and wild e-commerce company.
+He is a Technical Director at ECM - A young & wild e-commerce company.
 
-Using Shopify & JavaScript to bring happiness, joy, and good enough shopping experiences to over 110K Customers in the US.
+He uses Shopify & JavaScript to bring happiness, joy, and good enough shopping experiences to over 110K Customers in the US.
 
 #### Since 2013
 
