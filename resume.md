@@ -2,7 +2,7 @@
 
 ### LE KHAC DUY ANH | VIETNAM | HCMC
 
-Software Engineer with ten years of full-time commercial experience, eager to
+Software Engineer with one decade of full-time commercial experience, eager to
 learn new technologies, methodologies, and techniques, Duy Anh offers
 end-to-end software solutions. He specializes in web development, creating
 engaging, intuitive user interfaces with great interest in planning
