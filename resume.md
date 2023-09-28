@@ -4,8 +4,8 @@
 
 Software Engineer with ten years of full-time commercial experience, eager to
 learn new technologies, methodologies, and techniques, Duy Anh offers
-end-to-end software solutions. He specializes in creating engaging and
-intuitive user interfaces and web development with great interest in planning
+end-to-end software solutions. He specializes in web development, creating
+engaging, intuitive user interfaces with great interest in planning
 architectures and enhancing the usability of products.
 
 [GMAIL](mailto:lekhacduyanh@gmail.com) | [GITHUB](https://github.com/0xlkda) | [LINKEDIN](https://www.linkedin.com/in/lkda/) 
