@@ -2,11 +2,7 @@
 
 ### LE KHAC DUY ANH | VIETNAM | HCMC
 
-Software Engineer with one decade of full-time commercial experience, eager to
-learn new technologies, methodologies, and techniques, Duy Anh offers
-end-to-end software solutions. He specializes in web development, creating
-engaging, intuitive user interfaces with great interest in planning
-architectures and enhancing the usability of products.
+Software Engineer with one decade of full-time commercial experience, eager to learn new technologies, methodologies, and techniques, Duy Anh offers end-to-end software solutions. He specializes in web development, creating engaging, intuitive user interfaces with great interest in planning architectures and enhancing the usability of products.
 
 [GMAIL](mailto:lekhacduyanh@gmail.com) | [GITHUB](https://github.com/0xlkda) | [LINKEDIN](https://www.linkedin.com/in/lkda/) 
 
@@ -20,9 +16,9 @@ He uses Shopify & JavaScript to bring happiness, joy, and good enough shopping e
 
 #### Since 2013
 
-He worked for many companies in various business domains, including e-commerce, Agency, Marketing, Accounting and Business Management, SAAS.
+He worked for many companies in various business domains, including saas, agency, e-commerce, marketing, accounting and business management.
 
-He used a bunch of tech stacks, read and wrote many languages from JavaScript, PHP, Go, C#, and deep into Assembly without fear. 
+He used a bunch of tech stacks, read and wrote many languages from JavaScript, PHP, C#, and deep into Assembly without fear. 
 
 ### GOOD MOMENTS IN LIFE
 
@@ -32,5 +28,5 @@ He used a bunch of tech stacks, read and wrote many languages from JavaScript, P
 
 ### MORE DETAIL
 
-Contact him via the links above if you want to hear more about Duy Anh's story.
+Contact him via the links above to hear more about Duy Anh's story.
 
