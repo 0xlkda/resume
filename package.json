@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "config": "vim resume.config.json",
+    "edit": "nvim resume.md",
+    "start": "md-to-pdf --config-file resume.config.json --watch resume.md",
     "build": "md-to-pdf --config-file resume.config.json resume.md",
-    "watch": "md-to-pdf --config-file resume.config.json --watch resume.md"
+    "config": "vim resume.config.json"
   },
 	"dependencies": {
 		"md-to-pdf": "^5.2.4"

@@ -1,8 +1,10 @@
-## Résumé
+## Résumé <span style="font-size: 0.6em; float:right;">[Longer version](https://github.com/0xlkda/resume/resume-long-version.html)</span>
 
 ### LE KHAC DUY ANH | VIETNAM | HCMC
 
-Software Engineer with one decade of full-time commercial experience, eager to learn new technologies, methodologies, and techniques, Duy Anh offers end-to-end software solutions. He specializes in web development, creating engaging, intuitive user interfaces with great interest in planning architectures and enhancing the usability of products.
+Software Engineer with one decade of trying to derive X function of Y by experimenting.
+Eager to learn new technologies, methodologies, and techniques.
+Specializes in web-tech, UI/UX with great interest in making profitable business.
 
 [GMAIL](mailto:lekhacduyanh@gmail.com) | [GITHUB](https://github.com/0xlkda) | [LINKEDIN](https://www.linkedin.com/in/lkda/) 
 
@@ -10,9 +12,11 @@ Software Engineer with one decade of full-time commercial experience, eager to l
 
 #### 2020 - Now
 
-He is a Technical Director at ECM - A young & wild e-commerce company.
+He is a Technical Director at ECM - A young & wild e-commerce company in Home & Decors niche.
 
-He uses Shopify & JavaScript to bring happiness, joy, and good enough shopping experiences to over 110K Customers in the US.
+He uses Shopify & JavaScript to bring happiness, joys, and good enough shopping experiences to over 110K Customers in the US.
+
+He now using Rust Lang as Rust is far more a perfect world; people do expect too much.
 
 #### Since 2013
 
@@ -24,9 +28,4 @@ He used a bunch of tech stacks, read and wrote many languages from JavaScript, P
 
 - 61% increase in the online store's conversion rate in one month.
 - 99% customer satisfaction since 2020.
-- Made ECM's fulfillment tasks less human mistakes by providing an automation system.
-
-### MORE DETAIL
-
-Contact him via the links above to hear more about Duy Anh's story.
-
+- Made the fulfillment process less miserable by providing an automation system.
