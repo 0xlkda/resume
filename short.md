@@ -1,4 +1,4 @@
-## Résumé <span style="font-size: 0.6em; float:right;">[Longer version](https://0xlkda.github.io/resume/lkda-long.pdf)</span>
+## Résumé <span style="font-size: 0.6em; float:right;">[Longer version](https://0xlkda.github.io/resume/long.pdf)</span>
 
 ### LE KHAC DUY ANH | VIETNAM | HCMC
 
