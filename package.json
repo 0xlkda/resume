@@ -1,9 +1,14 @@
 {
   "scripts": {
-    "edit": "nvim resume.md",
-    "start": "md-to-pdf --config-file resume.config.json --watch resume.md",
-    "build": "md-to-pdf --config-file resume.config.json resume.md",
-    "config": "vim resume.config.json"
+    "build:all": "npm run build:short && npm run build:long",
+    "edit:short": "nvim contents/short.md",
+    "start:short": "md-to-pdf --config-file short.config.json --watch contents/short.md",
+    "build:short": "md-to-pdf --config-file short.config.json contents/short.md",
+    "config:short": "vim short.config.json",
+    "edit:long": "nvim contents/long.md",
+    "start:long": "md-to-pdf --config-file long.config.json --watch contents/long.md",
+    "build:long": "md-to-pdf --config-file long.config.json contents/long.md",
+    "config:long": "vim long.config.json"
   },
 	"dependencies": {
 		"md-to-pdf": "^5.2.4"
