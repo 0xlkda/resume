@@ -1,5 +1,5 @@
 {
-  "dest": "docs/lkda-long.pdf",
+  "dest": "docs/long.pdf",
   "stylesheet": ["assets/resume.css"],
   "body_class": "resume-body",
   "pdf_options": {
