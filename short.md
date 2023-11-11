@@ -26,6 +26,7 @@ He used a bunch of tech stacks, read and wrote many languages from JavaScript, P
 
 ### GOOD MOMENTS IN LIFE
 
+- Created 3D Object using pure math [Demo](https://0xlkda.github.io/notes/latest/3d.html) 
 - 61% increase in the online store's conversion rate in one month.
 - 99% customer satisfaction since 2020.
 - Made the fulfillment process less miserable by providing an automation system.
