@@ -1,32 +1,34 @@
-## Résumé <span style="font-size: 0.6em; float:right;">[Longer version](https://0xlkda.github.io/resume/long.pdf)</span>
+## Résumé 
 
-### LE KHAC DUY ANH | VIETNAM | HCMC
+### LE KHAC DUY ANH
 
-Software Engineer with one decade of trying to derive X function of Y by experimenting.
-Eager to learn new technologies, methodologies, and techniques.
-Specializes in web-tech, UI/UX with great interest in making profitable business.
-
-[GMAIL](mailto:lekhacduyanh@gmail.com) | [GITHUB](https://github.com/0xlkda) | [LINKEDIN](https://www.linkedin.com/in/lkda/) 
+Co-founder of EcomMonster, Tech enthusiast with one decade of trying to derive X function of Y by experimenting.
+Specializes in Web-tech, UI/UX with great interest in making profitable business.
 
 ### WORKING EXPERIENCES
 
-#### 2020 - Now
+#### Co-Founder
+##### EcomMonster <span class="time">since 2020</span>
+Built & Managed Home & Decor online store, spread the happiness, joys, and good enough shopping experiences to over 110K Customers in the US.
 
-He is a Technical Director at ECM - A young & wild e-commerce company in Home & Decors niche.
+#### Software Engineer
+##### Noggin AI (SG Remote)<span class="time">2019 - 2020</span>
+Built data privacy platform helps companies share insight without sharing their data.
 
-He uses Shopify & JavaScript to bring happiness, joys, and good enough shopping experiences to over 110K Customers in the US.
+##### ShopBack VN<span class="time">2017 - 2019</span>
+Built users, vendors & offers management system.
 
-He now using Rust Lang as Rust is far more a perfect world; people do expect too much.
+##### Intersquad Studio <span class="time">2016-2017</span>
+Built bespoke webapps, websites for australian clients (KitchenAid, Accor Hotels...)
 
-#### Since 2013
-
-He worked for many companies in various business domains, including saas, agency, e-commerce, marketing, accounting and business management.
-
-He used a bunch of tech stacks, read and wrote many languages from JavaScript, PHP, C#, and deep into Assembly without fear. 
+##### WinBooks VN <span class="time">2014-2016</span>
+Built accounting software.
 
 ### GOOD MOMENTS IN LIFE
 
-- Created 3D Object using pure math [Demo](https://0xlkda.github.io/notes/latest/3d.html) 
+- Adopted a cat.
+- Team members sent thanks for useful tools.
+- Created interactive 3D Cubes using pure math & javascript [View](https://0xlkda.github.io/notes/latest/3d.html) 
 - 61% increase in the online store's conversion rate in one month.
 - 99% customer satisfaction since 2020.
-- Made the fulfillment process less miserable by providing an automation system.
+- Having an epiphany about * and & in C.

@@ -1,3 +1,36 @@
+:root {
+  --heading-color: #1C2833;
+  --text-color: #1B2631;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin: 0;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h4 {
+  margin: 0;
+}
+
+h5 {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--heading-color);
+}
+
 @font-face {
   font-family: SSPro;
   src: url(assets/SourceCodePro-VariableFont_wght.ttf);
@@ -7,8 +40,9 @@
   line-height: 1.5;
   font-size: 17px;
   font-family: SSPro;
+  color: var(--text-color);
 }
 
-h3 {
-  margin-top: 2rem;
+.time {
+  float: right;
 }
