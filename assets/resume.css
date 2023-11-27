@@ -49,3 +49,10 @@ h5 {
 .time {
   float: right;
 }
+
+.contact {
+  float: right;
+  font-size: small;
+  display: flex;
+  align-items: center;
+}

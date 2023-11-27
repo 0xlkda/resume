@@ -1,4 +1,4 @@
-## Résumé 
+## Résumé <span class="contact">[lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)</span>
 
 ### LE KHAC DUY ANH
 
@@ -28,7 +28,7 @@ Built accounting software.
 
 - Adopted a cat.
 - Team members sent thanks for useful tools.
-- Created interactive 3D Cubes using pure math & javascript [View](https://0xlkda.github.io/notes/latest/3d.html) 
+- Created interactive 3D Cubes using pure math & javascript. [View](https://0xlkda.github.io/notes/latest/3d.html) 
 - 61% increase in the online store's conversion rate in one month.
 - 99% customer satisfaction since 2020.
 - Having an epiphany about * and & in C.
