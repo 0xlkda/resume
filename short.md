@@ -2,13 +2,13 @@
 
 ### LE KHAC DUY ANH
 
-Co-founder of EcomMonster, Tech enthusiast with one decade of trying to derive X function of Y by experimenting.
+Co-founder of ECM, Tech enthusiast with one decade of trying to derive X function of Y by experimenting.
 Specializes in Web-tech, UI/UX with great interest in making profitable business.
 
 ### WORKING EXPERIENCES
 
 #### Co-Founder
-##### EcomMonster <span class="time">since 2020</span>
+##### ECM <span class="time">since 2020</span>
 Built & Managed Home & Decor online store, spread the happiness, joys, and good enough shopping experiences to over 110K Customers in the US.
 
 #### Software Engineer
