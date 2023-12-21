@@ -21,7 +21,7 @@ Built users, vendors & offers management system.
 ##### Intersquad Studio <span class="time">2016-2017</span>
 Built bespoke webapps, websites for australian clients (KitchenAid, Accor Hotels...)
 
-##### WinBooks VN <span class="time">2014-2016</span>
+##### WinBooks VN <span class="time">2013-2015</span>
 Built accounting software.
 
 ### GOOD MOMENTS IN LIFE

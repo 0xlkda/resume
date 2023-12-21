@@ -1,15 +1,4 @@
 {
-  "scripts": {
-    "build:all": "npm run build:short && npm run build:long",
-    "edit:short": "nvim short.md",
-    "start:short": "md-to-pdf --config-file short.config.json --watch short.md",
-    "build:short": "md-to-pdf --config-file short.config.json short.md",
-    "config:short": "vim short.config.json",
-    "edit:long": "nvim long.md",
-    "start:long": "md-to-pdf --config-file long.config.json --watch long.md",
-    "build:long": "md-to-pdf --config-file long.config.json long.md",
-    "config:long": "vim long.config.json"
-  },
 	"dependencies": {
 		"md-to-pdf": "^5.2.4"
 	}
