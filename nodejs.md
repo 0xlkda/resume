@@ -2,7 +2,7 @@
 
 ### LE KHAC DUY ANH
 
-A tech enthusiast with one decade of experimenting to derive X function of Y.
+A tech enthusiast with 1 decade of experimenting to derive X function of Y.
 
 Using JavaScript professional, eager to learn the new language, concepts, and techniques as needed.
 
@@ -19,6 +19,9 @@ Decided the backbone of technologies used in the company.
 
 Explained to folks about "What, When, and Why everything is better with a good tool, then should they buy or build it themself?".
 
+###### Tech used: NodeJS, MongoDB, Heroku, AWS, GCloud
+###### Languages used: JavaScript, Shopify Liquid
+
 #### Software Development
 ##### Noggin AI (SG Remote)<span class="time">2019 - 2020</span>
 
@@ -28,6 +31,9 @@ The main focus at that time was to create systems that allowed:
 - Noggin admins to have a clear view of the processing pipeline and the system's status and manage AI models.
 - Noggin's users create, set, and deploy consent forms to their client's websites.
 
+###### Tech used: ReactJS, NodeJS, AWS
+###### Languages used: JavaScript
+
 ##### ShopBack VN<span class="time">2017 - 2019</span>
 
 Worked as developers, the main focus was building admin tools.
@@ -36,6 +42,8 @@ Worked as developers, the main focus was building admin tools.
 - The system owners picked NodeJS to replace the old PHP one.
 - Applied Micro-Services design system to have better experiences with other systems.
 - Joined the Functional Programming hype train.
+###### Tech used: ReactJS, NodeJS, AWS, MongoDB, PostgreSQL
+###### Languages used: JavaScript, PHP
 
 ##### Intersquad Studio <span class="time">2016-2017</span>
 
@@ -46,6 +54,9 @@ At this time, many new things come and go. The list of apps is from a range of d
 - Smart IOT device to control the light and water for indoor plants. This project had not happened yet, but it was a terrific experiment.
 - Custom websites and content management systems using CraftCMS and WordPress for Australian clients (KitchenAid, Accor Hotels).
 - Automation scripts that serve many purposes.
+
+###### Techs used: NodeJS, AWS, Heroku
+###### Languages used: JavaScript, C#, PHP
 
 ##### WinBooks VN <span class="time">2013-2015</span>
 
@@ -60,3 +71,12 @@ At this moment in time, Winbooks created software that has the following feature
 - Run in browser. 
 - The Windows system can drag and drop like the natural OS system.
 - Tons of accounting features.
+
+###### Techs used: Microsoft SQL Server, Microsoft Crytal Reports, Flash
+###### Languages used: C# .Net
+
+### EDUCATION
+
+##### Bachelor of Engineering | Open-University HCM<span class="time">2008-2012</span>
+ 
+
