@@ -1,0 +1,44 @@
+:root {
+  --heading-color: #1c2833;
+  --text-color: #1b2631;
+  --no-focus: gray;
+  --tech-used-color: slate;
+}
+
+@font-face {
+  font-family: SSPro;
+  src: url(assets/SourceCodePro-VariableFont_wght.ttf);
+}
+
+h1 {
+  font-size: 1rem;
+}
+
+h2 {
+  font-size: 0.925rem;
+}
+
+h3 {
+  font-size: 0.925rem;
+}
+
+h4 {
+  font-size: 0.825rem;
+}
+
+h5 {
+}
+
+h6 {
+}
+
+h1, h2 {
+  color: var(--no-focus);
+}
+
+.resume-body {
+  line-height: 1.5;
+  font-size: 16px;
+  font-family: SSPro;
+  color: var(--text-color);
+}
