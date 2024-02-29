@@ -1,0 +1,8 @@
+#!/bin/sh
+NAME=latest
+
+md-to-pdf --config-file $NAME.config.json $NAME.md
+cp latest.pdf docs/$NAME.pdf
+cp latest.pdf docs/lekhacduyanh_resume.pdf
+rm $NAME.pdf
+open docs/$NAME.pdf
