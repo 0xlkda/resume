@@ -18,7 +18,7 @@ Working with a group of specialists in various domains to deliver successful sal
     - App to create home-decors prints
     - Orders and Fullfillment automation task runner
     - SVG editor (like adobe illustrator) for designers & non-designers
-- Integration with external systems
+- Configure, integrate with external systems
 
 ## FRONTEND SOFTWARE DEVELOPMENT EXPERIENCE
 ### Noggin AI (Remote) 2019-2020
