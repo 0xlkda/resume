@@ -1,55 +1,124 @@
-# LE KHAC DUY ANH | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [0906789832](tel:+84906789832)
-Interested in productivity, ergonomic design, and humankind, specializing in web tech and UI/UX.
+# LE KHAC DUY ANH
+SENIOR SOFTWARE DEVELOPER
 
-Current stacks:
-- JavaScript, MongoDB, NodeJS, Shopify Liquid
-- AWS, Firebase, GCloud, Heroku, 
+--- 
+# SYNOPSIS OF PROFESSIONAL EXPERIENCE
+## Summary
+- Programming proficiency in JavaScript, ReactJS, NodeJS
+- Software architecture in Shopify Themes, Apps
+- Full-Stack development
+- Database management
+- Agile methodologies
+- DevOps practices
+- Problem-solving skills
+- Vietnamese: native
+- English: speak, read, write, understand others
+- Continuous Learning
 
-##### Experienced: C#, Flash, Microsoft Crytal Reports, Microsoft SQL Server, PHP, PostgreSQL, ReactJS
+## Skills
+- UX first thinking & Visualization
+- Effective collaborating with cross-functional teams
+- Identify root causes of issues and implement effective solutions
+- Iterative development, Sprint planning, Backlog grooming, conducting Sprint retrospectives
+- Familiar with DevOps terms
+- Write Tests and Testable Code
+- Actively participate in Online Communities
+- Staying with the latest Trends and Technologies in Software Development 
+- Contribute to Open-source Projects
 
-## LEADERSHIP EXPERIENCE
-### ECM 2020-Now
-Working with various domain specialists to deliver successful sales campaigns.
-- Optimize for the Shopify site
-- Design and build
-    - Color swatch
-    - Filters
-    - Custom variant display on product
-    - App to create home-decors prints
-    - Orders and Fulfillment automation task runner
-    - SVG editor (like Adobe Illustrator) for designers & non-designers
-- Configure and integrate with external systems
+---
+# WORKING/PROJECT EXPERIENCE
 
-## FRONTEND SOFTWARE DEVELOPMENT EXPERIENCE
-### Noggin AI (Remote) 2019-2020
-Worked as a full-stack senior developer, heavily on the front end.
-The goal at that time was to create systems that allowed:
-- Noggin's admins to observe the system's status and manage AI models.
-- Noggin's users create and deploy consent forms to their client's websites.
+# ECM 2020 - now
+## Position
+Tech lead
 
-### ShopBack VN 2017-2019
-Worked as a full-stack developer; the goal was to build tools that helped the company run well.
-- React and Redux are "default" at that moment in time.
-- The system owners picked NodeJS to replace the old PHP one.
-- Applied the Micro-Services design system to have better experiences with other systems.
-- Joined the Functional Programming hype train.
+## Project Description
+Build Custom Web Elements, Web Apps, Apps, Web Extensions, Backend Services, and Database management for Shopify Online Store
 
-### Intersquad Studio 2016-2017
-Worked as a senior developer, focusing mainly on building software on demand.
-At this time, many new things come and go. The list of apps is from a range of domains:
-- The airline e-ticket system for one big re-seller, but the project failed because of a captcha and a strict bot protection system.
-- Smart IOT device to control the light and water for indoor plants. This project had not happened yet, but it was a terrific experiment.
-- Custom websites and content management systems using CraftCMS and WordPress for Australian clients (KitchenAid, Accor Hotels).
-- Automation scripts that serve many purposes.
+## Responsibilities
+- Keep the System online
+- Build high conversion rate Landing Page
+- Build easy to use Product Page
+- Build Apps to support the Business Model
+- Connect/Integrate to Payment System, Fulfillment Services
 
-### WinBooks VN 2013-2015
-Worked as a freshman, the main focus was to create anything the system needed to make Accountants happy.
-- Managed the works using the Jira dashboard.
-- Created File Management module. (first-time used recursion trees data structures in real life).
-- Created a reporting module that exports data and generates PDFs using Microsoft Crystal Reports.
-- Updated the source code labeled as BUG, then delivered it to production using trunk-based development.
+## Tech stacks
+Shopify themes, Apps, JavaScript, NodeJS, MongoDB, GCloud, AWS, Webhooks, Cloud Data Storage
 
-At this moment in time, Winbooks created software that has the following features:
-- Run in browser. 
-- The Windows system can drag and drop like the natural OS system.
-- Tons of accounting features.
+---
+# NogginAI 2019 - 2020
+## Position
+Fullstack Developer
+
+## Project Description
+Build the MVP version of Privately Owned Data Platform 
+
+## Responsibilities
+- Design & Build Admin Dashboard
+- Design & Build Custom Web Elements for Clients
+- Design & Build Web Apps to demostration process of AI Models training
+- Collaborate with Backend Engineers to connect Web Apps to Backend Services
+
+## Tech stacks
+JavaScript, NodeJS, ReactJS, MongoDB, Kafka, GCloud, AWS, Docker, Python, JSON, CSV
+
+---
+# ShopBack 2017 - 2019
+## Position
+Fullstack Developer
+
+## Project Description
+Build Cashback App
+
+## Responsibilities
+- Build Web Apps
+- Build APIs
+- Integrate Web Apps with Backend Services
+- Collaborate with other Team members to delivery successful Sprints
+
+## Tech stacks
+JavaScript, TypeScript, NodeJS, PHP, MongoDB, PostgreSQL, AWS
+
+---
+# Intersquad 2016 - 2017
+## Position
+Fullstack Software Engineer
+
+## Project Description
+Build Apps, Web Apps, setup & deploy Content Management System
+
+## Responsibilities
+- Take & Analyze clients requirements directly & non-directly
+- Build software
+- Code reviews
+- Report to CTO
+
+## Tech stacks
+JavaScript, PHP, C#, NodeJS, CraftCMS, Wordpress
+
+---
+#  WinBooks 2013 - 2015
+## Position
+Software Engineer
+
+## Project Description
+Build Web App for Accountants
+
+## Responsibilities
+- Take & Analyze CTO requirements
+- Build software
+- Code reviews
+- Fix Issues
+
+## Tech stacks
+C#, Microsoft SQL Server, Microsoft Crystal Reports, Flash
+
+---
+# EDUCATION & CERTIFICATIONS
+Bachelor of Computer Science, Open University, 2008-2012
+
+---
+# CONTACT
+- email: [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
+- mobile: [0906789832](tel:+84906789832)
