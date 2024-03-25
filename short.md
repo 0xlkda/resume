@@ -11,6 +11,7 @@
 - Up-to-date with latest tech trends.
 - Fluent in Vietnamese and English.
 
+---
 # Technical Lead @EcomMonsters, 2020 - Present
 - Managed stores across platforms like Shopify, Etsy, Amazon.
 - Led projects from planning to execution.
@@ -18,13 +19,13 @@
 - Increased average order value by 80%.
 - Developed upselling strategies, user-centric pages.
 - Developed apps for selling personalized products and creating product templates.
-- Integrated services with 3rd parties like supplies, fulfillment services, payment gateways.
-- Fostered a team culture of empathy and understanding, addressing the needs and challenges of team members.
-- Committed to continuous learning, staying up-to-date with the latest tech trends and ecommerce platforms.
+- Integrated services with supplies, fulfillment services, payment gateways.
+- Fostered a team culture of empathy, understanding, addressing the needs and challenges of team members.
+- Committed to continuous learning, staying up-to-date with the latest tech trends and ecommerce domains.
 
 # Full-Stack Developer @NogginAI, 2019 - 2020
-- Released a Data Exchange Platform MVP.
-- Created web apps to demonstrate AI training.
+- Released a MVP for Data Exchange Platform.
+- Developed a web app to demonstrate AI training.
 - Developed a custom web consent widget.
 
 # Full-Stack Developer @ShopBack, 2017 - 2019
@@ -33,13 +34,14 @@
 
 # Full-Stack Developer @Intersquad, 2016 - 2017
 - Developed an e-ticket platform.
-- Created a data mining bot.
+- Developed a data mining bot.
 - Worked with CMS like WordPress, CraftCMS, developed templates, plugins.
 
 # Full-Stack Developer @WinBooks, 2013 - 2015
 - Developed modules for an Accountant-focused app.
 - Improved functionality and user experience in general accounting, reporting, and assets management modules.
 
-# Contact
+---
+# Bachelor of Computer Science, Open University (2008-2012)
 - email: [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
 - phone: [(+84)906789832](tel:+84906789832)
