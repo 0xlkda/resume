@@ -1,5 +1,5 @@
 #!/bin/sh
-NAME="${1:-latest}"
+NAME="${1:-resume}"
 CONFIG="${2:-default}.config.json"
 
 md-to-pdf --config-file $CONFIG $NAME.md
