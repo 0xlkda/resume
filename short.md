@@ -24,7 +24,7 @@
 # Full-Stack Developer @NogginAI, 2019 - 2020
 - Released an MVP for a Data Exchange Platform.
 - Created web applications to demonstrate AI model training.
-- Developed a custom web consent widget.
+- Developed a custom web consent widget to collecting data.
 
 # Full-Stack Developer @ShopBack, 2017 - 2019
 - Worked on several modules in the Cashback Application, including Access Control List, Offer Management, and Coupon Management.
@@ -36,5 +36,5 @@
 - Worked with a variety of content management systems, developing templates and plugins for systems like WordPress and CraftCMS.
 
 # Full-Stack Developer @WinBooks, 2013 - 2015
-- Developed several modules for an Accountant-focused Web Application including general accounting, reporting, assets management.
-
+- Developed several modules for an Accountant-focused Web Application.
+- Improved functionality and user experience in general accounting, reporting, and assets management modules.
