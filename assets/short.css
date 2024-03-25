@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  word-break: break-word;
+}
+
 :root {
   --heading-color: #1c2833;
   --text-color: #1b2631;
@@ -11,16 +21,22 @@
 }
 
 h1 {
-  font-size: 1rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+  margin-top: 0.8rem;
 }
 
 h2 {
   font-size: 0.825rem;
+  color: var(--text-color);
 }
 
 ol,
 ul {
   list-style: square outside;
+  padding-left: 1.5rem;
 }
 
 .resume-body {

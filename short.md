@@ -12,29 +12,34 @@
 - Fluent in Vietnamese and English.
 
 # Technical Lead @EcomMonsters, 2020 - Present
-- Managed multiple stores across platforms like Shopify, Etsy, and Amazon.
-- Led projects from planning to execution, ensuring adherence to timelines and budgets.
-- Doubled the store's conversion rate and increased average order value by 80% using data analysis and user insights.
-- Developed effective upselling strategies, user-centric landing pages.
-- Developed applications for selling personalized products and creating product templates.
-- Integrated core services with 3rd parties supplies, fulfillment services, payment gateways.
+- Managed stores across platforms like Shopify, Etsy, Amazon.
+- Led projects from planning to execution.
+- Doubled store's conversion rate.
+- Increased average order value by 80%.
+- Developed upselling strategies, user-centric pages.
+- Developed apps for selling personalized products and creating product templates.
+- Integrated services with 3rd parties like supplies, fulfillment services, payment gateways.
 - Fostered a team culture of empathy and understanding, addressing the needs and challenges of team members.
-- Committed to continuous learning, staying up-to-date with the latest tech trends and e-commerce platforms.
+- Committed to continuous learning, staying up-to-date with the latest tech trends and ecommerce platforms.
 
 # Full-Stack Developer @NogginAI, 2019 - 2020
-- Released an MVP for a Data Exchange Platform.
-- Created web applications to demonstrate AI model training.
-- Developed a custom web consent widget to collecting data.
+- Released a Data Exchange Platform MVP.
+- Created web apps to demonstrate AI training.
+- Developed a custom web consent widget.
 
 # Full-Stack Developer @ShopBack, 2017 - 2019
-- Worked on several modules in the Cashback Application, including Access Control List, Offer Management, and Coupon Management.
-- Designed APIs and integrated web applications with backend services.
+- Worked on Cashback Application modules, including Access Control List, Offer Management, and Coupon Management.
+- Designed APIs, integrated web applications with backend services.
 
 # Full-Stack Developer @Intersquad, 2016 - 2017
 - Developed an e-ticket platform.
 - Created a data mining bot.
-- Worked with a variety of content management systems, developing templates and plugins for systems like WordPress and CraftCMS.
+- Worked with CMS like WordPress, CraftCMS, developed templates, plugins.
 
 # Full-Stack Developer @WinBooks, 2013 - 2015
-- Developed several modules for an Accountant-focused Web Application.
+- Developed modules for an Accountant-focused app.
 - Improved functionality and user experience in general accounting, reporting, and assets management modules.
+
+# Contact
+- email: [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
+- phone: [(+84)906789832](tel:+84906789832)
