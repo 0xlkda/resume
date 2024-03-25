@@ -19,12 +19,12 @@ Integrates core services with third-party suppliers, fulfillment services, and p
 Fosters a team culture of empathy and understanding, addressing the needs and challenges of team members.
 
 # Full-Stack Developer at NogginAI (2019 - 2020)
-Released an MVP for a Data Exchange Platform and created web applications to demonstrate AI model training.
-Developed a custom web consent widget for collecting data, showcasing the ability to create user-friendly interfaces.
+Released an MVP for a Data Exchange Platform and created web application to demonstrate AI model training.
+Developed a custom web consent widget for collecting data.
 
 # Full-Stack Developer at ShopBack (2017 - 2019)
 Worked on several modules in the Cashback Application, including Access Control List, Offer Management, and Coupon Management.
-Designed APIs and integrated web applications with backend services, demonstrating full-stack development skills.
+Designed APIs and integrated web applications with backend services.
 
 # Full-Stack Developer at Intersquad (2016 - 2017)
 Developed an e-ticket platform and created a data mining bot.
