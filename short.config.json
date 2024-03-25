@@ -1,8 +1,0 @@
-{
-  "stylesheet": ["assets/short.css"],
-  "body_class": "resume-body",
-  "pdf_options": {
-    "format": "a4",
-    "margin": ".3in .3in"
-  }
-}

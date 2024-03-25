@@ -1,9 +1,9 @@
 #!/bin/sh
-NAME="${1:-resume}"
+NAME="${1:-default}"
 CONFIG="${2:-default}.config.json"
 
 md-to-pdf --config-file $CONFIG $NAME.md
-cp "$NAME.pdf" "docs/lekhacduyanh_$NAME.pdf"
+cp "$NAME.pdf" "docs/lekhacduyanh_resume.pdf"
 rm $NAME.pdf
 
-open "docs/lekhacduyanh_$NAME.pdf"
+open "docs/lekhacduyanh_resume.pdf"
