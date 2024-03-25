@@ -1,34 +1,40 @@
-## Résumé <span class="contact">[lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)</span>
+# LE KHAC DUY ANH - SENIOR SOFTWARE DEVELOPER
+- 11 years' experience.
+- Proficient in JavaScript, ReactJS, NodeJS.
+- Expert in Shopify Themes and Apps.
+- Experienced in iterative development.
+- Writes testable code.
+- Familiar with DevOps.
+- Skilled problem-solver.
+- Committed to continuous learning.
+- Contributes to open-source.
+- Up-to-date with latest tech trends.
+- Fluent in Vietnamese and English.
 
-### LE KHAC DUY ANH
+# Technical Lead @EcomMonsters, 2020 - Present
+- Managed multiple stores across platforms like Shopify, Etsy, and Amazon.
+- Led projects from planning to execution, ensuring adherence to timelines and budgets.
+- Doubled the store's conversion rate and increased average order value by 80% using data analysis and user insights.
+- Developed effective upselling strategies, user-centric landing pages.
+- Developed applications for selling personalized products and creating product templates.
+- Integrated core services with 3rd parties supplies, fulfillment services, payment gateways.
+- Fostered a team culture of empathy and understanding, addressing the needs and challenges of team members.
+- Committed to continuous learning, staying up-to-date with the latest tech trends and e-commerce platforms.
 
-Co-founder of ECM, Tech enthusiast with one decade of trying to derive X function of Y by experimenting.
-Specializes in Web-tech, UI/UX with great interest in making profitable business.
+# Full-Stack Developer @NogginAI, 2019 - 2020
+- Released an MVP for a Data Exchange Platform.
+- Created web applications to demonstrate AI model training.
+- Developed a custom web consent widget.
 
-### WORKING EXPERIENCES
+# Full-Stack Developer @ShopBack, 2017 - 2019
+- Worked on several modules in the Cashback Application, including Access Control List, Offer Management, and Coupon Management.
+- Designed APIs and integrated web applications with backend services.
 
-#### Co-Founder
-##### ECM <span class="time">since 2020</span>
-Built & Managed Home & Decor online store, spread the happiness, joys, and good enough shopping experiences to over 110K Customers in the US.
+# Full-Stack Developer @Intersquad, 2016 - 2017
+- Developed an e-ticket platform.
+- Created a data mining bot.
+- Worked with a variety of content management systems, developing templates and plugins for systems like WordPress and CraftCMS.
 
-#### Software Engineer
-##### Noggin AI (SG Remote)<span class="time">2019 - 2020</span>
-Built data privacy platform helps companies share insight without sharing their data.
+# Full-Stack Developer @WinBooks, 2013 - 2015
+- Developed several modules for an Accountant-focused Web Application including general accounting, reporting, assets management.
 
-##### ShopBack VN<span class="time">2017 - 2019</span>
-Built users, vendors & offers management system.
-
-##### Intersquad Studio <span class="time">2016-2017</span>
-Built bespoke webapps, websites for australian clients (KitchenAid, Accor Hotels...)
-
-##### WinBooks VN <span class="time">2013-2015</span>
-Built accounting software.
-
-### GOOD MOMENTS IN LIFE
-
-- Adopted a cat.
-- Team members sent thanks for useful tools.
-- Created interactive 3D Cubes using pure math & javascript. [View](https://0xlkda.github.io/notes/latest/3d.html) 
-- 61% increase in the online store's conversion rate in one month.
-- 99% customer satisfaction since 2020.
-- Having an epiphany about * and & in C.

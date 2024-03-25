@@ -1,8 +1,8 @@
 {
-  "stylesheet": ["assets/next.css"],
+  "stylesheet": ["assets/default.css"],
   "body_class": "resume-body",
   "pdf_options": {
     "format": "a4",
-    "margin": "6mm 16mm"
+    "margin": ".4in .8in"
   }
 }

@@ -12,31 +12,20 @@
 
 h1 {
   font-size: 1rem;
-  margin-bottom: .75rem;
 }
 
 h2 {
-  font-size: 0.925rem;
-  color: var(--no-focus);
-  margin-bottom: .5rem;
+  font-size: 0.825rem;
 }
 
-ol, ul, p {
-  margin-top: 0;
-}
-
-ol, ul {
-  padding-left: 1.25rem;
+ol,
+ul {
   list-style: square outside;
-}
-
-hr {
-  margin-top: 1.5rem;
 }
 
 .resume-body {
   line-height: 1.5;
-  font-size: 14px;
+  font-size: 13px;
   font-family: SSPro;
   color: var(--text-color);
 }
@@ -44,4 +33,3 @@ hr {
 .page-break {
   page-break-after: always;
 }
-
