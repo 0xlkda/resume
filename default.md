@@ -1,25 +1,25 @@
 # LE KHAC DUY ANH - SENIOR SOFTWARE DEVELOPER
 - Offers 11 years of tech industry experience.
-- Proficient in JavaScript, ReactJS, NodeJS.
+- Interested in any job in JavaScript development.
 - Expert in Shopify Themes and apps.
-- Knows DevOps practices.
 - Practices iterative development.
-- Writes testable code.
+- Practices OO Printciples & OO Patterns.
 - Solves problems effectively.
 - Learns continuously.
 - Contributes to open-source.
 - Follows the latest tech trends.
+- Knows DevOps practices.
 - Speaks Vietnamese and English fluently.
 
 # Technical Lead at EcomMonsters (2020 - Present)
+- Managing team of ten, group into domains.
 - Managing stores on Shopify, Etsy, and Amazon.
 - Integrating services with third-party suppliers.
-- Fostering empathetic team culture.
-- Leading projects to meet timelines and budgets.
 - Developing upselling strategies, user-centric landing pages, and widgets.
 * Doubled conversion rate and increased order value by 80%.
 * Created new product lines with the ability to customize.
 * Implemented analytics and custom server-side events, enhancing advertising retargeting.
+* Created a team vibe where everyone's can give aS.
 
 # Full-Stack Developer at NogginAI (2019 - 2020)
 - Released an MVP for a Data Exchange Platform
