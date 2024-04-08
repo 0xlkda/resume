@@ -1,48 +1,52 @@
-# LE KHAC DUY ANH - SENIOR SOFTWARE DEVELOPER
-- Offers 11 years of tech industry experience.
-- Interested in any job in JavaScript development.
-- Expert in Shopify Themes and apps.
-- Practices iterative development.
-- Practices OO Printciples & OO Patterns.
-- Solves problems effectively.
-- Learns continuously.
-- Contributes to open-source.
-- Follows the latest tech trends.
-- Knows DevOps practices.
-- Speaks Vietnamese and English fluently.
+# LE KHAC DUY ANH
+- Experienced Software Engineer
+- Contact Information: [(+84)906789832](tel:+84906789832) [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
 
-# Technical Lead at EcomMonsters (2020 - Present)
-- Managing team of seven, group into domains.
-- Managing stores on Shopify, Etsy, and Amazon.
-- Integrating services with third-party suppliers.
-- Developing upselling strategies, user-centric landing pages, and widgets.
-* Introduced new product lines with customization options.
-* Developed an interactive widget that resulted in a 100% increase in conversion rate and boosted the order value by 80%.
-* Implemented analytics and custom server-side events, enhancing advertising retargeting.
-* Created a team vibe where everyone's can give aS.
+# Summary
+- Committed to applying effective problem-solving skills in future roles
+- Interested in JavaScript development in both frontends & backends
+- Expert in Shopify Themes and apps
+- Emphasizes lifelong learning as a key professional value
+- Active contributor to open-source projects
 
-# Full-Stack Developer at NogginAI (2019 - 2020)
-- Released mvp web application for a Data Exchange Platform.
-- Developed web application to demonstrate AI model training.
-- Developed a custom web consent widget for collecting data.
+# Skill
+- Ecommerce best practices
+- Proficient JavaScript design & development
+- Practices iterative development
+- Practices object oriented Principles & Patterns
+- Thinking functionally
+- Speaks Vietnamese and English fluently
 
-# Full-Stack Developer at ShopBack (2017 - 2019)
-- Worked on several modules in the Cashback Application, including the Access Control Management, Offer Management, and Coupon Management.
-- Implemented APIs and integrated web applications with backend services.
+# Experience
+# Full-Stack Developer, Co-founder, EcomMonsters, January 2020 - Present
+- Researches, develops, and optimizes Ecommerce best practices
+- Works directly with the board to deliver successful sales campaigns
+- Developed many feature-rich, user-business-centric landing pages, web apps, and scripts
+- Experienced in managing and developing on Shopify, Amazon, and Etsy
 
-# Full-Stack Developer at Intersquad (2016 - 2017)
-- Developed an e-ticket platform and created a data mining bot.
-- Worked with various content management systems.
-- Developed templates and plugins for WordPress and CraftCMS.
+# Full-Stack Developer, NogginAI, May 2019 - December 2019
+- Delivered mvp version of a Data Exchange Platform, including web client, admin dashboard, and custom consent notice widget
 
-# Full-Stack Developer at WinBooks (2013 - 2015)
-- Developed several modules for an Accountant-focused Web Application.
-- Developed report templates using Microsoft Crystal Reports, C#/.Net 
+# Full-Stack Developer, ShopBack, VN, March 2017 - March 2019
+- Collaborated within a dynamic team of six members to augmenting cashback business
+- Adopted and practiced agile methodologies, applied micro frontends, NodeJS best practices
 
----
-# Bachelor of Computer Science at Open University (2008-2012)
-The birthplace of all computer thoughts.
+# Full-Stack Developer, Intersquad, VN, February 2016 - February 2017
+- Collaborated within a dynamic team of ten members, provide profesional IT services
+- Adopted kanban projects management
 
-# Contact
-- email: [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
-- phone: [(+84)906789832](tel:+84906789832)
+# Full-Stack Developer, WinBooks, VN, July 2013 - December 2015
+- Worked on the web client and backend of an enterprise application in the Accounting domain
+- Practiced object oriented programming
+
+# Education
+Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
+
+# Projects
+- Product Management System for [Shopback VN](https://goshopback.vn) 
+- Enterprise Application for [Winbooks BE](https://winbooks.be) 
+- Airline Booking web client for [Hong Ngoc Ha Travel](https://hongngocha.com) 
+- Shopify, Wordpress management & development 
+- Custom data mining and processing development
+- Microsoft Crystal Reports templates development
+- Contributed to open-source project: FabricJS

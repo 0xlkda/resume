@@ -3,6 +3,7 @@
   --text-color: #1b2631;
   --no-focus: gray;
   --tech-used-color: slate;
+  --font-size-body: 13px;
 }
 
 @font-face {
@@ -11,7 +12,7 @@
 }
 
 h1 {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: bold;
   color: var(--text-color);
   margin-bottom: 0.5rem;
@@ -19,7 +20,7 @@ h1 {
 }
 
 h2 {
-  font-size: 0.825rem;
+  font-size: 0.725rem;
   color: var(--text-color);
 }
 
@@ -32,7 +33,7 @@ ul {
 
 .resume-body {
   line-height: 1.5;
-  font-size: 13px;
+  font-size: var(--font-size-body);
   font-family: SSPro;
   color: var(--text-color);
 }
