@@ -4,7 +4,7 @@
 
 # Summary
 - Committed to applying effective problem-solving skills in future roles
-- Interested in JavaScript development in both frontends & backends
+- Enjoys in JavaScript development in both frontends & backends
 - Expert in Shopify Themes and apps
 - Emphasizes lifelong learning as a key professional value
 - Active contributor to open-source projects
