@@ -18,7 +18,7 @@
 - Speaks Vietnamese and English fluently
 
 # Experience
-# Full-Stack Developer, Co-founder, EcomMonsters, January 2020 - Present
+# Full-Stack Developer, Co-founder, EcomMonsters, January 2020 - NaN
 - Researches, develops, and optimizes Ecommerce best practices
 - Works directly with the board to deliver successful sales campaigns
 - Developed many feature-rich, user-business-centric landing pages, web apps, and scripts
