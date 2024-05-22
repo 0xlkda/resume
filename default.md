@@ -1,44 +1,43 @@
-# LE KHAC DUY ANH  
-- Experienced Software Engineer
-- Contact Information: [(+84)906789832](tel:+84906789832) [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com)
-- [Github](https://github.com/0xlkda)
+# LE KHAC DUY ANH  | Software Engineer | [(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda)
 
 # Summary
-- Committed to applying effective problem-solving skills in future roles
-- Enjoys in JavaScript development in both frontends & backends
-- Expert in Shopify Themes and apps
-- Emphasizes lifelong learning as a key professional value
-- Active contributor to open-source projects
+In the last four years, Duy Anh has been given the superpower to use any tool he wants.
+He enjoys crafting professional codebases using JavaScript.
+JavaScript is good enough for almost all cases — frontend, backend, collages, and goods.
+
+He happy to do anything else that fits the needs at the moment in time,
+including bash scripting, YAML editing, Dockerizing, Microservices, Message
+Brokers, DBMS, Nix configurating, PHP, Go, Rust, C and all the cool stuff.
+
+With the ability to work on both client and server sides, from ground to cloud,
+he has hands-on experience with projects in various domains including
+ecommerce, fashion, cashback, e-ticketing, SaaS, etc.
+
+He love Vim, Tmux, Allacrity and will be happy to answer all your questions.
 
 # Skill
-- Ecommerce best practices
-- Proficient JavaScript design & development
-- Practices iterative development
-- Practices object oriented Principles & Patterns
-- Thinking functionally
+- Software design & development
+- Analysis & Problem solvings
+- Functionally thinking
+- Detail thinking
+- 10.000ft thinking
 - Speaks Vietnamese and English fluently
 
 # Experience
-# Full-Stack Developer, Co-founder, EcomMonsters, January 2020 - NaN
-- Researches, develops, and optimizes Ecommerce best practices
-- Works directly with the board to deliver successful sales campaigns
-- Developed many feature-rich, user-business-centric landing pages, web apps, and scripts
-- Experienced in managing and developing on Shopify, Amazon, and Etsy
+# Full-Stack Developer, EcomMonsters, January 2020 - NaN
+Works directly with cool people, implementing feature-rich, user-business-centric landing pages, web apps, and automation workflows aka "scripting" to sell home decors, fashion, gifts in the US and CA, AU markets using JavaScript
 
 # Full-Stack Developer, NogginAI, May 2019 - December 2019
-- Delivered mvp version of a Data Exchange Platform, including web client, admin dashboard, and custom consent notice widget
+Delivered mvp version of a Data Exchange Platform, including web client, admin dashboard, and custom consent notice widget using ReactJS, NodeJS, Docker, Kafka, Airflow
 
 # Full-Stack Developer, ShopBack, VN, March 2017 - March 2019
-- Collaborated within a dynamic team of six members to augmenting cashback business
-- Adopted and practiced agile methodologies, applied micro frontends, NodeJS best practices
+Collaborated within a dynamic team of six members to augmenting cashback business using JavaScript. Applied micro frontends, ReactJS, NodeJS best practices, adopted agile methodologies, 
 
 # Full-Stack Developer, Intersquad, VN, February 2016 - February 2017
-- Collaborated within a dynamic team of ten members, provide profesional IT services
-- Adopted kanban projects management
+Collaborated within a dynamic team of ten members, provide profesional IT services using JavaScript, C#. Adopted kanban projects management
 
 # Full-Stack Developer, WinBooks, VN, July 2013 - December 2015
-- Worked on the web client and backend of an enterprise application in the Accounting domain
-- Practiced object oriented programming
+Worked on the web client and backend of an enterprise application in the Accounting domain using C#/.NET
 
 # Education
 Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
