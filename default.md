@@ -1,4 +1,4 @@
-# LE KHAC DUY ANH  | Software Engineer | [(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda)
+# LE KHAC DUY ANH  | Software Engineer | [(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)
 
 # Summary
 In the last four years, Duy Anh has been given the superpower to use any tool he wants to translating his logical prowess into instructions a computer deciphers.
