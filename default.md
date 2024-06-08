@@ -1,18 +1,9 @@
 # LE KHAC DUY ANH  | Software Engineer | [(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)
 
 # Summary
-In the last four years, Duy Anh has been given the superpower to use any tool he wants to translating his logical prowess into computer instructions.
-He enjoys crafting professional codebases using JavaScript. It is good enough for almost all cases — frontend, backend, collages, and goods.
-
-He happy to do anything else that fits the needs at the moment in time,
-including bash scripting, YAML editing, Dockerizing, Microservices, Message
-Brokers, DBMS, Nix configurating, PHP, Go, Rust, C and all the cool stuff.
-
-With the ability to work on both client and server sides, from ground to cloud,
-he has hands-on experience with projects in various domains including
-ecommerce, fashion, cashback, e-ticketing, SaaS, etc.
-
-He love Vim, Tmux, Allacrity and will be happy to answer all your questions.
+He love his family, and friends.<br>
+He love science, computers, music.<br>
+He love vim, tmux, allacrity, and will be happy to answer all your questions.<br>
 
 # Skill
 - Software design & development
