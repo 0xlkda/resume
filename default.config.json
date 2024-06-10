@@ -3,6 +3,6 @@
   "body_class": "resume-body",
   "pdf_options": {
     "format": "a4",
-    "margin": ".1in .2in"
+    "margin": ".1in .1in"
   }
 }

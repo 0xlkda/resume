@@ -3,7 +3,23 @@
   --text-color: #1b2631;
   --no-focus: gray;
   --tech-used-color: slate;
-  --font-size-body: 14px;
+  --font-size-heading: 12px;
+  --font-size-body: 12px;
+}
+
+.hidden {
+  opacity: 0;
+  color: white;
+
+  position: absolute;
+  width: 1;
+  height: 1;
+  left: 0;
+  top: 0;
+}
+
+.page-break {
+  page-break-after: always;
 }
 
 @font-face {
@@ -11,17 +27,24 @@
   src: url(assets/SourceCodePro-VariableFont_wght.ttf);
 }
 
+a {
+  text-decoration: none;
+}
+blockquote {
+  width: 80ch;
+}
+
 h1 {
-  font-size: 0.7rem;
-  font-weight: bold;
   color: var(--text-color);
-  margin-bottom: 0.5rem;
-  margin-top: 0.8rem;
+  font-size: var(--font-size-heading);
+  padding-bottom: 0;
+  border-bottom: 1px solid #eaecef;
 }
 
 h2 {
-  font-size: 0.725rem;
   color: var(--text-color);
+  font-size: var(--font-size-heading);
+  padding-bottom: 0;
 }
 
 ol,
@@ -32,12 +55,8 @@ ul {
 }
 
 .resume-body {
+  color: var(--text-color);
   line-height: 1.5;
   font-size: var(--font-size-body);
   font-family: SSPro;
-  color: var(--text-color);
-}
-
-.page-break {
-  page-break-after: always;
 }
