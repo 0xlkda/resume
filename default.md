@@ -1,15 +1,3 @@
-<div class="hidden">
-He has a Bachelor's degree in Computer Science from Open University - HCM, VN (2008 - 2012). He has a strong proficiency in terminal operations, building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and unit testing.
-He is proficient in JavaScript, ReactJS, NodeJS, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, and Liquid. He also have experience with NextJS, PostgreSQL, MaterialUI, TailwindCSS, C, Kafka, RabbitMQ, Sentry, DataDog, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, and Alacritty.
-Their professional experience spans across several companies:
-EcomMonsters (Jan 2020 - Present): Managed and developed multiple web stores and backend services, built a complete webpage and embedded user interface, set up CI/CD using GitHub Actions, and experimented with various languages and stacks.
-NogginAI (May 2019 - Dec 2019): Worked as a frontend engineer in a team of three, built the MVP version using ReactJS and MaterialUI, and set up a Kafka consumer in NodeJS.
-ShopBack, VN (Mar 2017 - Mar 2019): Worked as a full-stack engineer in a team of six, built web apps from designs, implemented micro-frontends, and set up NodeJS service logging.
-Intersquad, VN (Feb 2016 - Feb 2017): Worked as a full-stack engineer, built pixel-perfect websites using CraftCMS, WordPress, and PHP, and built e-ticket apps using EmberJS and NodeJS.
-WinBooks, VN (Jul 2013 - Dec 2015): Worked as a software engineer, built a web app using Flash and C# .NET, and built Microsoft Crystal Report templates.
-He has contributed to several projects, including a management web app for ShopBack VN, an accounting web app for WinBooks BE, an airline e-ticket web app for Hong Ngoc Ha travel, and various Shopify and WordPress apps, plugins, and themes. He has also contributed to open-source projects like FabricJS, PostScript, and Ghostscript.
-</div>
-
 **LE KHAC DUY ANH - Software Engineer** <span style="float:right;">[(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)</span>
 
 # Summary
@@ -90,3 +78,15 @@ Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
 
 **Why do you put the FAQs in your resume?**
 > In reality, I think it will help you, me and others save a little time. If not, I am sorry for that.
+
+<div class="hidden">
+He has a Bachelor's degree in Computer Science from Open University - HCM, VN (2008 - 2012). He has a strong proficiency in terminal operations, building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and unit testing.
+He is proficient in JavaScript, ReactJS, NodeJS, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, and Liquid. He also have experience with NextJS, PostgreSQL, MaterialUI, TailwindCSS, C, Kafka, RabbitMQ, Sentry, DataDog, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, and Alacritty.
+Their professional experience spans across several companies:
+EcomMonsters (Jan 2020 - Present): Managed and developed multiple web stores and backend services, built a complete webpage and embedded user interface, set up CI/CD using GitHub Actions, and experimented with various languages and stacks.
+NogginAI (May 2019 - Dec 2019): Worked as a frontend engineer in a team of three, built the MVP version using ReactJS and MaterialUI, and set up a Kafka consumer in NodeJS.
+ShopBack, VN (Mar 2017 - Mar 2019): Worked as a full-stack engineer in a team of six, built web apps from designs, implemented micro-frontends, and set up NodeJS service logging.
+Intersquad, VN (Feb 2016 - Feb 2017): Worked as a full-stack engineer, built pixel-perfect websites using CraftCMS, WordPress, and PHP, and built e-ticket apps using EmberJS and NodeJS.
+WinBooks, VN (Jul 2013 - Dec 2015): Worked as a software engineer, built a web app using Flash and C# .NET, and built Microsoft Crystal Report templates.
+He has contributed to several projects, including a management web app for ShopBack VN, an accounting web app for WinBooks BE, an airline e-ticket web app for Hong Ngoc Ha travel, and various Shopify and WordPress apps, plugins, and themes. He has also contributed to open-source projects like FabricJS, PostScript, and Ghostscript.
+</div>
