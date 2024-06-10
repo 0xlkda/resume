@@ -16,7 +16,7 @@ Managed, developed, and was responsible for multiple web stores and backend serv
 - Used AWS, Google Cloud, and Heroku as cloud application platforms to host multiple programs.
 - Used Shopify as the commerce platform.
 - Set up CI/CD using GitHub Actions.
-- Built and experimented with programs for internal use using multiple languages and stacks including Canvas, Bash, C, OpenGL, OCR engine, PostScript, and WebAssembly (Wasm).
+- Built and experimented with programs for internal use using multiple languages and stacks including Docker, Canvas, Bash, C, OpenGL, OCR engine, PostScript, and WebAssembly (Wasm).
 
 ## NogginAI, May 2019 - December 2019
 Worked in a team of three as a frontend engineer.
