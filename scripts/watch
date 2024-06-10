@@ -1,0 +1,6 @@
+#!/bin/sh
+NAME="${1:-default}"
+CONFIG="${2:-default}.config.json"
+
+md-to-pdf --config-file $CONFIG $NAME.md --watch --launch-options '{ "headless": "new" }' --port 3000
+open "http://localhost:3000/$NAME.pdf"
