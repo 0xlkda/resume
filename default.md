@@ -1,11 +1,9 @@
 **LE KHAC DUY ANH - Software Engineer** <span style="float:right;">[(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)</span>
 
 # Summary
-Whether or not working relationships become personal, alignment matters.<br>
-A conversation is worthwhile when expectations, responsibilities, and outcomes are clear on both sides.<br>
-Strong experience across the full software lifecycle, from shaping ideas and constraints into system design, to building user interfaces, backend APIs, deployments, databases, integrations, documentation, and testing.<br>
-Comfortable operating in terminal driven environments and production systems.<br>
-Focus on clarity, ownership, and turning abstract concepts into working software.
+Whether or not work turns into friendship, it is worth talking if there is a chance to see whether needs are fulfilled on both sides.<br>
+Comfortable working in terminal driven environments.<br>
+Hands on experience building software roadmaps, user interfaces, backend APIs, deployments, databases, third party integrations, technical documentation, and tests.<br>
 
 **Proficient:** Javascript, ReactJS, NodeJs, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid<br>
 **Others:** NestJS, NextJS, PostgreSQL, TailwindCSS, MaterialUI, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Neovim, Tmux, Alacritty
