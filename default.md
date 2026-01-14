@@ -1,13 +1,19 @@
 **LE KHAC DUY ANH - Software Engineer** <span style="float:right;">[(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)</span>
 
 # Summary
+Whether or not we become friends at work, let’s talk if you want to see whether we fulfill each other’s needs.<br>
 Proficiency in terminal operations.<br>
 Building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and unit testing.
 
-**Proficient:** JavaScript, ReactJS, NodeJS, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid<br>
-**Others:** NextJS, PostgreSQL, MaterialUI, TailwindCSS, C, Kafka, RabbitMQ, Sentry, DataDog, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, Alacritty
+**Proficient:** Javascript, ReactJS, NodeJs, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid<br>
+**Others:** NestJS, NextJS, PostgreSQL, MaterialUI, TailwindCSS, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, Alacritty
 
 # Experience
+## HDS International Group, Jun 2024 - Dec 2025
+Managed, developed, and was responsible for Shipcheck Platform.
+- Built a good team. Had friends.
+- Built a foundation, common features for critical parts of system.
+
 ## EcomMonsters, January 2020 - Present
 Managed, developed, and was responsible for multiple web stores and backend services.
 - Built a complete webpage and embedded user interface using JavaScript, Liquid, CSS, ReactJS and ViteJS.
@@ -51,6 +57,7 @@ Worked as a software engineer.
 Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
 
 # Projects
+- Freight digitizing, auditing, benchmarking, tendering for HDS International Group [Shipcheck](https://shipcheck.com)
 - Merchants, deals, offers management web app for [ShopBack VN](https://goshopback.vn) 
 - Accounting web app for [WinBooks BE](https://winbooks.be) 
 - Airline e-ticket web app for [Hong Ngoc Ha travel](https://hongngocha.com) 
@@ -62,16 +69,17 @@ Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
 > In reality, my experiences have their own limitations and they were suitable for the specific circumstances at that time, with many factors involved. However, these experiences provided me with a broad understanding of the particular problem that needed to be solved.
 
 **What is your career goal?**
-> In reality, I love my family, computer, and music. I am excited to learn about new technologies that can solve human problems. I enjoy sharing my experiences and thoughts, and I strive to understand how things work at the most fundamental level. My aim is to use my knowledge and skills to make a positive impact in my field. I believe that through continuous learning and sharing, I can contribute to the advancement of technology and make a difference in the world.
+> In reality, I love my family, computer, and music. Talk to the computer, learn new concepts, tell computer to implementing concepts are my next activities.
 
 **What is your salary expectation?**
-> In terms of salary, I don't have a specific number in mind. However, I trust that your company offers competitive compensation. I'm confident that you'll propose a fair salary that reflects the responsibilities of the role and my qualifications.
+> In terms of salary, I am always feel my time and brain power inflation compared to money. However, I trust that your company offers competitive compensation. I'm confident that you'll propose a fair salary that reflects the responsibilities of the role and my qualifications.
 
 **What is your workplace expectation?**
 > In reality, be real.
 
 **Why did you leave your previous job?**
-> Actually, I haven't left my previous job at EcomMonsters. The business is running smoothly and only requires 1-2 hours of my time each day. I'm quite happy with this arrangement as it allows me to explore other opportunities while maintaining my responsibilities at EcomMonsters.
+> HDS is a good company, my team is expert at it own pace. You might guessing the reason but I have my NDA.
+> Actually, I haven't left my job at EcomMonsters. The business is running smoothly and only requires 1-2 hours of my time each day. I'm quite happy with this arrangement as it allows me to explore other opportunities while maintaining my responsibilities at EcomMonsters.
 
 **Why do you think you are the good fit for this project?**
 > In reality, I've analyzed your project description, and the key aspects align with my capabilities. If we discuss and determine that we share the same objectives, then there's no reason why I wouldn’t be a good fit.
