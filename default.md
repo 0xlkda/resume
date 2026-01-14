@@ -13,6 +13,7 @@ Building software roadmaps, user interfaces, backend APIs, deploying programs, m
 Managed, developed, and was responsible for Shipcheck Platform.
 - Built a good team. Had friends.
 - Built a foundation, common features for critical parts of system.
+- Added vibe to 25 years old company.
 
 ## EcomMonsters, January 2020 - Present
 Managed, developed, and was responsible for multiple web stores and backend services.
