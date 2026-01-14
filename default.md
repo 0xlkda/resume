@@ -3,14 +3,15 @@
 # Summary
 Whether or not we become friends at work, let’s talk if you want to see whether we fulfill each other’s needs.<br>
 Proficiency in terminal operations.<br>
-Building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and unit testing.
+Building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and testing.
 
 **Proficient:** Javascript, ReactJS, NodeJs, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid<br>
-**Others:** NestJS, NextJS, PostgreSQL, MaterialUI, TailwindCSS, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, Alacritty
+**Others:** NestJS, NextJS, PostgreSQL, TailwindCSS, MaterialUI, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Neovim, Tmux, Alacritty
 
 # Experience
 ## HDS International Group, Jun 2024 - Dec 2025
 Managed, developed, and was responsible for Shipcheck Platform.
+- Converted operational & marketing ideas into machine readable language.
 - Built a good team. Had friends.
 - Built a foundation, common features for critical parts of system.
 - Added vibe to 25 years old company.
