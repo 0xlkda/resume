@@ -1,12 +1,12 @@
 **LE KHAC DUY ANH - Software Engineer** <span style="float:right;">[(+84)906789832](tel:+84906789832) | [lekhacduyanh@gmail.com](mailto:lekhacduyanh@gmail.com) | [Github](https://github.com/0xlkda) | [Gists](https://gist.github.com/0xlkda)</span>
 
 # Summary
-Whether or not work turns into friendship, it is worth talking if there is a chance to see whether needs are fulfilled on both sides.<br>
-Comfortable working in terminal driven environments.<br>
-Hands on experience building software roadmaps, user interfaces, backend APIs, deployments, databases, third party integrations, technical documentation, and tests.<br>
+Comfortable working in terminal driven environments. Hands on experience building software roadmaps, user interfaces, backend APIs, deployments, databases, third party integrations, technical documentation, and tests.
 
-**Proficient:** Javascript, ReactJS, NodeJs, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid<br>
-**Others:** NestJS, NextJS, PostgreSQL, TailwindCSS, MaterialUI, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Neovim, Tmux, Alacritty
+Whether or not work turns into friendship, it is worth talking if there is a chance to see whether needs are fulfilled on both sides.
+
+**Proficient:** Javascript, ReactJS, NodeJs, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, Liquid.<br>
+**Others:** NestJS, NextJS, PostgreSQL, TailwindCSS, MaterialUI, RabbitMQ, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Neovim, Tmux, Alacritty, Claude.
 
 # Experience
 ## HDS International Group, Jun 2024 - Dec 2025
@@ -52,7 +52,6 @@ Worked as a full-stack engineer.
 Worked as a software engineer.
 - Built a web app using Flash and C# .NET.
 - Built Microsoft Crystal Report templates.
-
 <div class="page-break"></div>
 
 # Education
@@ -74,14 +73,15 @@ Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
 > In reality, I love my family, computer, and music. Talk to the computer, learn new concepts, tell computer to implementing concepts are my next activities.
 
 **What is your salary expectation?**
-> In terms of salary, I am always feel my time and brain power inflation compared to money. However, I trust that your company offers competitive compensation. I'm confident that you'll propose a fair salary that reflects the responsibilities of the role and my qualifications.
+> In terms of salary, money inflates, but responsibility and brain power grow differently. However, I trust that your company offers competitive compensation. I'm confident that you'll propose a fair number that reflects the responsibilities of the role and my qualifications.
 
 **What is your workplace expectation?**
 > In reality, be real.
 
 **Why did you leave your previous job?**
-> HDS is a good company, my team is expert at it own pace. You might guessing the reason but I have my NDA.
-> Actually, I haven't left my job at EcomMonsters. The business is running smoothly and only requires 1-2 hours of my time each day. I'm quite happy with this arrangement as it allows me to explore other opportunities while maintaining my responsibilities at EcomMonsters.
+> HDS is a good company, my team is expert at it own pace. You might guessing the reason but I have my NDA.<br>
+
+> I haven't left my job at EcomMonsters. The business is running smoothly and only requires 1-2 hours of my time each day. I'm quite happy with this arrangement as it allows me to explore other opportunities while maintaining my responsibilities at EcomMonsters.
 
 **Why do you think you are the good fit for this project?**
 > In reality, I've analyzed your project description, and the key aspects align with my capabilities. If we discuss and determine that we share the same objectives, then there's no reason why I wouldn’t be a good fit.
@@ -90,13 +90,15 @@ Bachelor of Computer Science, Open University - HCM, VN, 2008 - 2012
 > In reality, I think it will help you, me and others save a little time. If not, I am sorry for that.
 
 <div class="hidden">
-He has a Bachelor's degree in Computer Science from Open University - HCM, VN (2008 - 2012). He has a strong proficiency in terminal operations, building software roadmaps, user interfaces, backend APIs, deploying programs, managing databases, integrating with third-party services, writing technical documentation, and unit testing.
-He is proficient in JavaScript, ReactJS, NodeJS, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, and Liquid. He also have experience with NextJS, PostgreSQL, MaterialUI, TailwindCSS, C, Kafka, RabbitMQ, Sentry, DataDog, JWT, Auth0, JSON, CSV, TSV, OCR engine, NixOS, Vim, Tmux, and Alacritty.
-Their professional experience spans across several companies:
-EcomMonsters (Jan 2020 - Present): Managed and developed multiple web stores and backend services, built a complete webpage and embedded user interface, set up CI/CD using GitHub Actions, and experimented with various languages and stacks.
-NogginAI (May 2019 - Dec 2019): Worked as a frontend engineer in a team of three, built the MVP version using ReactJS and MaterialUI, and set up a Kafka consumer in NodeJS.
-ShopBack, VN (Mar 2017 - Mar 2019): Worked as a full-stack engineer in a team of six, built web apps from designs, implemented micro-frontends, and set up NodeJS service logging.
-Intersquad, VN (Feb 2016 - Feb 2017): Worked as a full-stack engineer, built pixel-perfect websites using CraftCMS, WordPress, and PHP, and built e-ticket apps using EmberJS and NodeJS.
-WinBooks, VN (Jul 2013 - Dec 2015): Worked as a software engineer, built a web app using Flash and C# .NET, and built Microsoft Crystal Report templates.
-He has contributed to several projects, including a management web app for ShopBack VN, an accounting web app for WinBooks BE, an airline e-ticket web app for Hong Ngoc Ha travel, and various Shopify and WordPress apps, plugins, and themes. He has also contributed to open-source projects like FabricJS, PostScript, and Ghostscript.
+He holds a Bachelor’s degree in Computer Science from Open University HCM, Vietnam (2008 to 2012). He is comfortable working in terminal driven environments and has hands on experience building software roadmaps, user interfaces, backend APIs, deployment pipelines, databases, third party integrations, technical documentation, and automated tests.
+He is proficient in JavaScript, ReactJS, NodeJS, Jest, MongoDB, AWS, Heroku, EC2, S3, Shopify, and Liquid. He also has working experience with NestJS, NextJS, PostgreSQL, MaterialUI, TailwindCSS, Kafka, RabbitMQ, Sentry, DataDog, JWT, Auth0, JSON, CSV, TSV, OCR engines, NixOS, Neovim, Tmux, and Alacritty.
+His professional experience spans multiple companies:
+EcomMonsters (January 2020 to Present): He manages and develops multiple web stores and backend services, builds complete web pages and embedded user interfaces, sets up CI/CD pipelines using GitHub Actions, and experiments with internal tools across multiple languages and stacks.
+HDS International Group (June 2024 to December 2025): He managed, developed, and took responsibility for the Shipcheck platform, translated operational and marketing ideas into machine readable systems, built shared foundations for critical system components, and contributed to team building and company culture.
+NogginAI (May 2019 to December 2019): He worked as a frontend engineer in a three person team, built the MVP using ReactJS and MaterialUI, developed NodeJS services, implemented data visualization, and set up a Kafka consumer.
+ShopBack Vietnam (March 2017 to March 2019): He worked as a full stack engineer in a six person team, built web applications from designs, integrated RESTful APIs, implemented micro frontends, and set up NodeJS logging.
+Intersquad Vietnam (February 2016 to February 2017): He worked as a full stack engineer, built pixel perfect websites using CraftCMS, WordPress, and PHP, developed a data mining bot in C#, and built e ticket applications using EmberJS and NodeJS.
+WinBooks Vietnam (July 2013 to December 2015): He worked as a software engineer, built web applications using Flash and C# .NET, and created Microsoft Crystal Report templates.
+He has contributed to projects including freight digitization platforms, merchant and deal management systems, accounting software, airline e ticket systems, and multiple Shopify and WordPress applications. He has also contributed to open source projects such as FabricJS, PostScript, and Ghostscript.
 </div>
+
